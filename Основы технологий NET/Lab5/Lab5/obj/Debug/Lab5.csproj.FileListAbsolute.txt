@@ -1,0 +1,10 @@
+C:\Users\Admin\Dropbox\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Admin\Dropbox\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\Admin\Dropbox\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Admin\Dropbox\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\user\Dropbox\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\user\Dropbox\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+C:\Users\user\Dropbox\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\user\Dropbox\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+C:\Users\user\Dropbox\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+D:\ОНПУ\С#\Lab42\Lab42\bin\Debug\Lab42.exe.config
+D:\ОНПУ\С#\Lab42\Lab42\bin\Debug\Lab42.exe
+D:\ОНПУ\С#\Lab42\Lab42\bin\Debug\Lab42.pdb
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.csprojAssemblyReference.cache
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.Form1.resources
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.Properties.Resources.resources
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.csproj.GenerateResource.cache
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.csproj.CoreCompileInputs.cache
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.exe
+D:\ОНПУ\С#\Lab42\Lab42\obj\Debug\Lab42.pdb

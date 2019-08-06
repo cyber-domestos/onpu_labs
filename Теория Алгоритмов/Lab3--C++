@@ -1,0 +1,43 @@
+
+//Дан массив символов. Удалить символ "двоеточие" и подсчитать количество удалёных символов
+
+#include "pch.h"
+#include <iostream>
+#include <iostream>
+#include <cstdio>
+
+using namespace std;
+
+void change(char *str, int &count);
+
+int main() {
+
+	setlocale(LC_ALL, "rus");
+	
+	char Massive[100]; 
+	cin >> Massive; 
+	int count = 0; //счётчик элементов.
+
+	//cout << Massive << endl;
+	change(Massive, count);
+	cout << Massive << ' ' << '\n' << "Количество замен: " << count << endl;
+
+	return 0;
+}
+
+void change(char *str, int &count)  //сдвиг эллементов на один. 
+{
+	count = 0;
+	
+	while (*str) {							
+		if (str[0] == ':') {
+			count++;
+			str[0] = ' ';
+		}
+		else {
+			str[0] = str[0];
+		}
+		str++;
+	}
+	cout << str;
+}

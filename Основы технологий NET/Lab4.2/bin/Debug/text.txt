@@ -1,0 +1,12 @@
+Point A:
+0
+0
+Point B:
+0
+10
+Point C:
+10
+10
+Point D:
+10
+0
